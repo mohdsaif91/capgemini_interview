@@ -156,6 +156,17 @@ export default [
           },
         ],
       },
+      {
+        purchase_date: "2024-01-20",
+        products: [
+          {
+            product_name: "Gas Booking Sheet",
+            image: "https://example.com/images/leather_jacket.jpg",
+            price_in_dollars: 10,
+            product_category: "Accessories",
+          },
+        ],
+      },
     ],
   },
   {
